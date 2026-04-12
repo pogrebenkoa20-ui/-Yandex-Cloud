@@ -7,7 +7,9 @@ Yandex Cloud
 
 Задание 1
 
+
 Повторить демонстрацию лекции(развернуть vpc, 2 веб сервера, бастион сервер)
+
 <img width="973" height="307" alt="init" src="https://github.com/user-attachments/assets/d559be60-3a62-41ba-95ca-4c4be97df8a1" />
 <img width="1386" height="905" alt="plan" src="https://github.com/user-attachments/assets/4f0aa24b-1c42-4ea5-b545-c58413725864" />
 <img width="916" height="690" alt="apply" src="https://github.com/user-attachments/assets/411d420d-5cfc-4e38-9906-665f0bbe6c7f" />
