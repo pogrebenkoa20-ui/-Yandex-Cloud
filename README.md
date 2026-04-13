@@ -20,3 +20,8 @@ Yandex Cloud
 С помощью ansible подключиться к web-a и web-b , установить на них nginx.(написать нужный ansible playbook)
 
 Провести тестирование и приложить скриншоты развернутых в облаке ВМ, успешно отработавшего ansible playbook.
+<img width="1865" height="655" alt="virt mach 2" src="https://github.com/user-attachments/assets/69084654-7b68-4d01-813d-80eeb7e4f4d0" />
+<img width="1865" height="655" alt="virt mach 2" src="https://github.com/user-attachments/assets/1f32b01d-0df0-4736-8614-18f267400a88" />
+<img width="1417" height="271" alt="install" src="https://github.com/user-attachments/assets/b90c9694-5e05-48a1-a109-882a7b8e1a0e" />
+<img width="1417" height="271" alt="install" src="https://github.com/user-attachments/assets/93284941-c7e5-4ef2-934b-cea299b7115b" />
+<img width="1162" height="842" alt="web-b" src="https://github.com/user-attachments/assets/81124d55-74ff-427e-900e-6c17040dc2d6" />
