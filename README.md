@@ -17,6 +17,7 @@ Yandex Cloud
 <img width="917" height="601" alt="destroy" src="https://github.com/user-attachments/assets/98c78a28-667d-42d5-9698-091f8a758d26" />
 
 Задание 2
+
 С помощью ansible подключиться к web-a и web-b , установить на них nginx.(написать нужный ansible playbook)
 
 Провести тестирование и приложить скриншоты развернутых в облаке ВМ, успешно отработавшего ansible playbook.
